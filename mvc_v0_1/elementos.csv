@@ -1,0 +1,26 @@
+NULL,inicio,palabras_claves,meta,inicio,cuarta
+NULL,inicio,palabras_claves,meta,inicio,primera
+NULL,inicio,palabras_claves,meta,inicio,quinta
+NULL,inicio,palabras_claves,meta,inicio,segunda
+NULL,inicio,palabras_claves,meta,inicio,septima
+NULL,inicio,palabras_claves,meta,inicio,sexta
+NULL,inicio,palabras_claves,meta,inicio,terera
+NULL,Plantilla,titulo,titulo,inicio,Blog del Viajero
+NULL,Inicio,descripcion,meta,descripcion,"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae mollitia et animi beatae voluptates, sint exercitationem magni consequuntur ipsa, recusandae. Cumque, maxime, sequi. Id at quo, voluptatum eum voluptas. Dolores."
+NULL,Plantilla,icono,img,icono,icono.jpg
+NULL,Plantilla,logotipo,img,logotipo,logotipo-negativo.png
+NULL,Inicio,palabras_claves,meta,inicio,cuarta
+NULL,Inicio,palabras_claves,meta,inicio,primera
+NULL,Inicio,palabras_claves,meta,inicio,quinta
+NULL,Inicio,palabras_claves,meta,inicio,segunda
+NULL,Inicio,palabras_claves,meta,inicio,septima
+NULL,Inicio,palabras_claves,meta,inicio,sexta
+NULL,Inicio,palabras_claves,meta,inicio,terera
+NULL,Plantilla,menu,opcion,1,Inicio
+NULL,Plantilla,menu,opcion,2,P‡gina 1
+NULL,Plantilla,menu,opcion,3,P‡gina 2
+NULL,Plantilla,menu,opcion,4,P‡gina 3
+NULL,Plantilla,menu,opcion,5,P‡gina 4
+NULL,Plantilla,menu,opcion,6,P‡gina 5
+NULL,Plantilla,menu,opcion,7,Galer’a de Im‡genes
+NULL,Plantilla,menu,img,usuario,avatar3.png

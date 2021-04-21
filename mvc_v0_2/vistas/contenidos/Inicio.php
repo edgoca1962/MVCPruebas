@@ -1,0 +1,1 @@
+<h1>Contenido del Inicio dentro de la plantilla</h1>

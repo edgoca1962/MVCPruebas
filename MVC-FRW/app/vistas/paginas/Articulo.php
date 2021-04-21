@@ -1,0 +1,1 @@
+<h1>prueba de carga vista - artículo</h1>
